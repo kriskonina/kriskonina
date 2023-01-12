@@ -1,5 +1,4 @@
 <p align="center">
-  <img width="70" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" /> &nbsp;&nbsp; 
   <img width="200" src="https://cdn.statically.io/gh/kriskonina/website/v1.47/assets/logo.196b4f18.png" /> <br/>
 </p>
 
