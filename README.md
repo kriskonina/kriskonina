@@ -46,8 +46,7 @@
 </div>
 
 ## 🔥 Currently excited about
-Building [`postschema`](https://github.com/kriskonina/postschema), an opinionated Python web framework built on top of `aiohttp` and `marshmallow`, depending on `PostgreSQL` and `Redis`. It packs a powerful ORM translating models to views without asking how. Offers seamless development and plenty of security features, including RBAC for fine-grained access control. Currently under heavy development, the public repo hasn't been updated in a while. Will be definitely looking for help as soon as I update the public repo with tests, docs and improved everything!
-
+I am actively developing [`postschema`](https://github.com/kriskonina/postschema), a modern, batteries-included, opinionated Python web framework built on top of `aiohttp` and `marshmallow`. It utilizes `PostgreSQL` and `Redis` for its powerful ORM, allowing for seamless translation of models to views with zero additional configuration. The framework also includes a trove of security features, such as baked-in RBAC for fine-grained access control and 2FA configurable down to select resources/operations. The project is currently under heavy development, but I am looking for contributors to help with tests, documentation, and overall improvements as soon as the public repository is updated.
 
 ##  📫 Get in touch?
 kris@kappados.dev
